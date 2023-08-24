@@ -1,3 +1,5 @@
+package dsa;
+
 public class BinarySearch {
     public static void main(String[] args) {
         int[] arr = {12, 15, 23, 34, 54, 55, 65, 66, 76, 84, 89};

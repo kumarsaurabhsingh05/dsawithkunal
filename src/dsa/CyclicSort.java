@@ -1,3 +1,5 @@
+package dsa;
+
 public class CyclicSort {
     public static void main(String[] args) {
         int[] arr = {3, 5, 2, 1, 4};
